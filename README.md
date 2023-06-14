@@ -13,4 +13,4 @@ The allowed image formats are .jpeg, .jpg and .png.
 ### Executing the program
 
 * Copy and paste the entire code to your Python project, then run it
-* See more details, screenshots, and tips here: https://happyliving448.wordpress.com/2023/06/08/python-project-series-4-image-watermark-desktop-app/
+* See more details, screenshots, and tips [here](https://happyliving448.wordpress.com/2023/06/08/python-project-series-4-image-watermark-desktop-app/)
